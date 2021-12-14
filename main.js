@@ -1,1 +1,4 @@
-console.log("Hello")
+let finalMessage = [];
+const day = [];
+const weather = [];
+const item = [];
